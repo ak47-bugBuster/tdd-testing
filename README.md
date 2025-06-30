@@ -1,6 +1,6 @@
-# String Calculator - TDD Kata (Incubyte)
+# String Calculator - TDD Kata
 
-This is a Python-based solution for the Incubyte String Calculator TDD Kata.
+This is a Python-based solution for the String Calculator TDD Kata.
 
 ## Features
 
